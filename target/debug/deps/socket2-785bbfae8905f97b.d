@@ -1,0 +1,11 @@
+/Users/wangyuguo/ids721/721 demo4/target/debug/deps/socket2-785bbfae8905f97b.rmeta: /Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/lib.rs /Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/sockaddr.rs /Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/socket.rs /Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/sockref.rs /Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/sys/unix.rs
+
+/Users/wangyuguo/ids721/721 demo4/target/debug/deps/libsocket2-785bbfae8905f97b.rlib: /Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/lib.rs /Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/sockaddr.rs /Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/socket.rs /Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/sockref.rs /Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/sys/unix.rs
+
+/Users/wangyuguo/ids721/721 demo4/target/debug/deps/socket2-785bbfae8905f97b.d: /Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/lib.rs /Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/sockaddr.rs /Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/socket.rs /Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/sockref.rs /Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/sys/unix.rs
+
+/Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/lib.rs:
+/Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/sockaddr.rs:
+/Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/socket.rs:
+/Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/sockref.rs:
+/Users/wangyuguo/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/socket2-0.4.7/src/sys/unix.rs:

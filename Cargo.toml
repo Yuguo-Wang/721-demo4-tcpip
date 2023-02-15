@@ -1,0 +1,19 @@
+[package]
+name = "tcpip-example"
+version = "0.1.0"
+authors = ["Your Name <you@example.com>"]
+edition = "2018"
+
+# 项目依赖
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+
+# 项目二进制文件
+[[bin]]
+name = "client"
+path = "src/client.rs"
+
+[[bin]]
+name = "server"
+path = "src/server.rs"
+
